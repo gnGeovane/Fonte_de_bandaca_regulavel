@@ -1,0 +1,21 @@
+-------------------Regulador de tensão-------------------
+
+2 capacitores de 100nF (POLIÉSTER)
+
+2 diodos 1N4007.
+
+1 resistor de 220 Ω
+
+1 potenciômetro de 5kΩ linear (tipo B) --> Ajuste de tensão
+1 potenciômetro de 1kΩ linear (tipo B) --> Ajuste fino (Opcional)
+2 knobs de potenciômetro (opcional)
+
+1 CI LM338 --> 5A max OU LM350 --> 3A max OU LM317 --> 1,5A max 
+
+1 Dissipador de calor e thermal pad
+1 interruptor
+
+-------------------Indicador ON/OFF (Opcional)-------------------
+
+1 LED Verde
+1 resistor de 1kΩ
