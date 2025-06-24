@@ -9,7 +9,7 @@ https://youtube.com/shorts/JO2gbTtH3QY
 
 Carregando um celular:
 
-https://github.com/user-attachments/assets/78c184bc-3062-4d64-b412-36b5e3be8f20
+https://github.com/user-attachments/assets/744e6361-ff08-4d0f-9e49-6365aa067785
 
 Fontes de 12V 5A usadas para fazer uma fonte simétrica e alimentar o regulador de tensão.
 
